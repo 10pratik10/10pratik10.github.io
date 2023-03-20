@@ -266,7 +266,7 @@ main {
 
 .sidebar {
   margin-bottom: 15px;
-  max-height: 112px;
+  max-height: 220px;
   overflow: hidden;
   transition: var(--transition-2);
 }
@@ -288,7 +288,7 @@ main {
 }
 .info-content .name {
   color: var(--white-2);
-  font-size: var(--fs-3);
+  font-size: var(--fs-4);
   font-weight: var(--fw-500);
   letter-spacing: -0.25px;
   margin-bottom: 10px;
@@ -1916,8 +1916,8 @@ main {
 }
 
 .navbar-list {
-  gap: 30px;
-  padding: 0 20px;
+  gap: 24px;
+  padding: 0 0px; /*Recent changes  (0 20px)*/ 
 }
 .navbar-link { font-weight: var(--fw-500); }
 
@@ -1963,6 +1963,18 @@ main {
 }
 
 img {
+  width: 60px;
+  height: auto;
+}
+.avatar-box img {
   width: 100%;
+  height: auto;
+}
+.testimonials-avatar-box img{
+  width: 65px;
+  height: auto;
+}
+.modal-avatar-box img{
+  width: 65px;
   height: auto;
 }
