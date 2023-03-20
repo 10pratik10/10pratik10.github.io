@@ -10,7 +10,24 @@ https://10pratik10.github.io/index.html
 <li>iPhone notch layout for latest iPhone model, ie, iPhone 14 and previous iPhone respectively</li>
 </ul>
 <p></p>
-<b>This are two issues which is critical and need to be update for providing an end-user a best result!</b>
-<b>A feedback will be welcome, kindly do feedback me on pratikcyber10@gmail.com for making some changes or bug related issue</b>
+<b>I have fixed the responsive layout issues by categorising each size of device, so that it will be easy to strech the  size of contents, iPhone notch problem haven't solved yet but working on it!</b>
+<p></p>
+<b>Right now, we have two issues which are yet to solve, iPhone notch and glowing icon. Working on gradiant feature.</b>
+<b>A kind feedback will be welcome, kindly do feedback me on pratikcyber10@gmail.com for suggesting some changes or bug related issue</b>
+<p></p>
+<b>Here's glimps of my website project</b>
+
+![image](https://user-images.githubusercontent.com/43493711/226364779-cc03927a-a066-48be-aada-3586e131a756.png)
+![image](https://user-images.githubusercontent.com/43493711/226364876-463fa662-c344-4c12-9666-9bceed7cc64c.png)
+![image](https://user-images.githubusercontent.com/43493711/226364917-3f5e0d96-523f-400d-97b2-ca525cf7dee4.png)
+![image](https://user-images.githubusercontent.com/43493711/226364972-ee0ba76b-1d7d-47c0-96ae-ab7c23c045b9.png)
+
+Thank you for checking out! I hope GDSC IIIT SURAT will be impressed by my work and I hope that I would get chance to contribute in open source projects.
+
+
+
+
+
+
 
 
