@@ -16,7 +16,7 @@ https://10pratik10.github.io/index.html
 <b>A kind feedback will be welcome, kindly do feedback me on pratikcyber10@gmail.com for suggesting some changes or bug related issue</b>
 <p></p>
 <b>Here's glimps of my website project</b>
-
+![portfolio](https://user-images.githubusercontent.com/43493711/226446699-69f89b59-ed7a-498b-8dfc-7414a12a2855.png)
 ![image](https://user-images.githubusercontent.com/43493711/226364779-cc03927a-a066-48be-aada-3586e131a756.png)
 ![image](https://user-images.githubusercontent.com/43493711/226364876-463fa662-c344-4c12-9666-9bceed7cc64c.png)
 ![image](https://user-images.githubusercontent.com/43493711/226364917-3f5e0d96-523f-400d-97b2-ca525cf7dee4.png)
