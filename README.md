@@ -23,10 +23,6 @@ https://10pratik10.github.io/index.html
 ![image](https://user-images.githubusercontent.com/43493711/226364917-3f5e0d96-523f-400d-97b2-ca525cf7dee4.png)
 ![image](https://user-images.githubusercontent.com/43493711/226364972-ee0ba76b-1d7d-47c0-96ae-ab7c23c045b9.png)
 
-Thank you for checking out! I hope GDSC IIIT SURAT will be impressed by my work and I hope that I would get chance to contribute in open source projects.
-
-
-
 
 
 
