@@ -1,5 +1,5 @@
 <h1>My Portfolio Website</h2>
-I created a portfolio website. I started creating the website about 1 month before it was hosted on Github server. I would like make it as open source project to contribute the developers, students and learner among us. I am thankful to for those who contributed in my project in fixing some critical error and hosting issues.
+Here's My Portfolio Website
 <h2>Here is my link to site</h2>
 https://10pratik10.github.io/index.html
 <h2></h2>
